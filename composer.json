@@ -1,5 +1,5 @@
 {
-    "name": "authorizenet/authorizenet",
+    "name": "zhartaunik/authorizenet",
     "type": "library",
 	"version": "3.0.0",
     "description": "Official PHP SDK for Authorize.Net",
